@@ -1,0 +1,360 @@
+*{
+    background-color: #92a793;
+}
+body{
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+
+.container {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 1fr;
+}
+
+#div1 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 42px; 
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+#div2{
+    font-family: 'Poppins', sans-serif;
+    text-align: right;
+   
+}
+
+#div2 ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#div2 li{
+    display: inline-block;
+    margin-top: 50px;
+
+}
+
+a {
+    margin-left: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: black;
+    text-decoration: none;
+}
+
+#botao{
+    border-radius: 50px;
+    background-color:rgb(15, 63, 37);
+    font-style: normal;
+    font-size: 16px ;
+    line-height: 24px;
+    text-align: center;
+    color: #fff;
+    padding: 10px 25px 10px 25px;
+    margin-left: -3px;
+    
+    
+}
+
+#nome p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 32px;
+}
+
+#nome h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 45px;
+    color: black;
+}
+
+#img {
+margin-left: 42px;
+
+}
+
+#img img{
+   margin-left: 60px;
+   border-radius: 80px;
+
+}
+
+#titulologo button{
+font-family: 'Poppins', sans-serif;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.logos{
+   
+   text-align: center;
+}
+
+#clientes{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+h2.red {
+font-family: 'Poppins', sans-serif;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+color: #282097;
+
+}
+
+h1.black {
+font-family: 'Poppins', sans-serif;
+font-size: 36px;
+font-weight: 700;
+line-height: 54px;
+letter-spacing: 0em;
+text-align: center;
+color: #000000;
+margin-top: 0px;
+
+}
+
+#meusservicos h3{
+font-family: 'Poppins', sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: center;
+color: #575455;
+margin-top: 0px;
+
+}
+
+.consultoria h2{
+font-family: 'Poppins', sans-serif;
+font-size: 20px;
+font-weight: 600;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: center;
+color: #070F18;
+}
+
+.consultoria p{
+font-family: 'Poppins', sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: center;
+color: #575455;
+
+}
+
+.consultoria{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.red h2{
+font-family: 'Poppins', sans-serif;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+color: #282097;
+
+}
+
+.black h1{
+font-family: 'Poppins', sans-serif;
+font-size: 36px;
+font-weight: 700;
+line-height: 54px;
+letter-spacing: 0em;
+text-align: center;
+color: #000000;
+margin-top: 0px;
+
+}
+
+#img2 img{
+    width: 100%;
+    margin-top: 150px;
+   
+    
+}
+
+.black2{
+text-align: left;
+font-family: 'Poppins', sans-serif;
+font-size: 29px;
+font-weight: 700;
+line-height: 25px;
+letter-spacing: 0em;
+color: #000000;
+margin-top: 0px;
+
+}
+
+.red2{
+font-family: 'Poppins', sans-serif;
+font-size: 13px;
+font-weight: 700;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+color: #282097;
+}
+
+#div5{
+    margin-top: 150px;
+    margin-left: 74px;
+    
+    
+}
+
+#div5 h3{
+font-family: 'Poppins', sans-serif;
+font-size: 9px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+
+}
+
+
+
+
+
+#botao2{
+    border-radius: 50px;
+    background-color:rgb(15, 63, 37);
+    font-style: normal;
+    font-size: 16px ;
+    line-height: 24px;
+    text-align: center;
+    color: #fff;
+    padding: 10px 25px 10px 25px;
+    margin-left: -3px;
+    margin-top: 5px;
+    border: rgb(71, 115, 238);
+    cursor: pointer;
+    width: 150px;
+    height: 40px;
+    
+}
+
+#ultima {
+    margin-top: 55px;
+   
+}
+
+#imgportfolio{
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 1fr;
+ }
+
+ #imgportfolio img{
+    width: 250px;
+    height: 200px;
+    margin-top: 50px;
+    margin-bottom: 150px;
+    margin-left: -19px;
+    margin-right: 100px;
+    cursor: pointer;
+    border-radius: 50px;
+ }
+
+ button:hover{
+  transform: translateY(-7px);
+  box-shadow: 0px 15px 20px #141311c7 ;
+ }
+
+ #botao:hover{
+    transform: translateY(10px);
+    transition-duration: 2s;
+    box-shadow: 5px 15px 20px #070F18;
+ }
+
+.imagemportfolio:hover img{
+     transform: translateY(10px);
+     transition-duration: 2s;
+     box-shadow: 5px 20px 30px #070F18;
+     border-radius: 20px;
+ }
+
+ #selecao select{
+     background-color: #070F18;
+     color: white;
+     border-radius: 10%;
+    width: 200px;
+    height: 50px;
+    }
+
+
+
+    #meusservicos{
+        margin-top: 100px;
+    }
+
+
+    .consultoria img{
+        width: 80px;
+        height: 80px;
+        cursor: pointer;
+    }
+
+    .consultoria h2{
+        color: #08290b;
+        margin-left: 15px;
+    }
+
+    #meusservicos h1{
+        color: rgb(215, 236, 206);;
+    }
+
+  #meusservicos h2{
+      color: #08290b;
+  }
+
+  .consultoria img:hover{
+    transform: translateY(10px);
+    transition-duration: 2s;
+    box-shadow: 5px 20px 30px #070F18;
+    border-radius: 20px;
+  }
+
+  #div5 h1{
+    color: #08290b;
+    margin-right: 20px;
+}
+
+#ultima h2{
+    color: rgb(215, 236, 206);
+}
+
+#ultima h1{
+    color: #08290b;
+}
